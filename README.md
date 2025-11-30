@@ -31,7 +31,7 @@ Este projeto foi desenvolvido para rodar em ambientes Linux (Ubuntu/WSL).
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/acastro-s/Simulador-SPA-SO.git
-    cd nome-do-repo
+    cd Simulador-SPA-SO
     ```
 
 2.  **Compile o código:**
