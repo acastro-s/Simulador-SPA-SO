@@ -1,4 +1,4 @@
-# Simulador de SPA "Mãos de Fada" (Concorrência e IPC)
+# Simulador do SPA "Mãos de Fada" (Concorrência e IPC)
 
 Este projeto é uma simulação de um sistema de atendimento de um SPA, desenvolvido em C para demonstrar conceitos avançados de Sistemas Operacionais, como **Threads**, **Sincronização** e **Comunicação entre Processos (IPC)**.
 
