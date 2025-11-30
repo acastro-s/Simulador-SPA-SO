@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para rodar em ambientes Linux (Ubuntu/WSL).
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/nome-do-repo.git](https://github.com/SEU-USUARIO/nome-do-repo.git)
+    git clone https://github.com/acastro-s/Simulador-SPA-SO.git
     cd nome-do-repo
     ```
 
